@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "836490870999",
+    "project_id": "adminuserapp-35135",
+    "storage_bucket": "adminuserapp-35135.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836490870999:android:678ecccde59220cc36f092",
+        "android_client_info": {
+          "package_name": "com.tecdroid.adminuserapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836490870999-eqeu9hubhuf9gsnabfg9hgnprh673b0q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGPLEkxIiNN0HnEI4tbhvU_s4KfB9zAZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836490870999-eqeu9hubhuf9gsnabfg9hgnprh673b0q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
